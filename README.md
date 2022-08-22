@@ -17,4 +17,6 @@ Cartoon: used to align images
 
 Xylocopacodefinal.Rmd: R code
 
+Outputnonmorph: "control" of analysis using 10 non-morph wings
+
 iNaturalist project: https://www.inaturalist.org/projects/xylocopa-virginica-wing-morph
