@@ -20,3 +20,5 @@ Xylocopacodefinal.Rmd: R code
 Outputnonmorph: "control" of analysis using 10 non-morph wings
 
 iNaturalist project: https://www.inaturalist.org/projects/xylocopa-virginica-wing-morph
+
+Xylocopa specimens STL: database of specimens collected in St. Louis with deisgnation whether they had evidence of wing demelanization. 
